@@ -45,15 +45,15 @@ G40,high,yes,excellent,yes
 
 Training Data Set -> Buying Table
 
-<img width="348" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/53fa0aa1-6f3d-467c-aa60-069a38626fbf">
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/13606479-2e67-4fef-b0d2-9f31c438ca6a)
 
 Training Data Set -> Banking Table
 
-<img width="359" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/ba0d1a01-a0f0-456e-8c87-946440cdb76f">
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/b2a86230-3c3c-4ca2-9eb5-4757a3bcd1c6)
 
 Training Data Set -> Employee Table
 
-<img width="221" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/a645a647-6fbf-4afc-a4b2-019f8f2dbe27">
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/4956d4e4-ebce-4a13-8c40-26aa47eba2a2)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -66,15 +66,16 @@ Training Data Set -> Employee Table
 ### OUTPUT:
 
 Buying Table
-<img width="689" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/f603ef53-f03a-4e1d-ae95-d5611d5f1a67">
+
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/43bafe01-5f6d-4934-88e5-4a0d85e7d370)
 
 Banking Table
 
-<img width="644" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/ed60639c-f00a-4648-8b53-fa04299d7c33">
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/e6d0a2b0-db90-46ad-9bc1-a8a9bfba9904)
 
 Employee Table
 
-<img width="583" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/55f35af5-60dd-4716-85e6-fc7f5278783b">
+![image](https://github.com/nithish143257/WDM_EXP2/assets/113762839/d29e887d-6a51-4543-a5aa-814d51e76ab0)
 
 
 ### RESULT: Thus this program has been successfully executed.
