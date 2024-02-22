@@ -1,5 +1,5 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE:21/2/23
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -43,6 +43,17 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+Training Data Set -> Buying Table
+
+<img width="348" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/53fa0aa1-6f3d-467c-aa60-069a38626fbf">
+
+Training Data Set -> Banking Table
+
+<img width="359" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/ba0d1a01-a0f0-456e-8c87-946440cdb76f">
+
+Training Data Set -> Employee Table
+
+<img width="221" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/a645a647-6fbf-4afc-a4b2-019f8f2dbe27">
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +65,16 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
-### RESULT: 
+Buying Table
+<img width="689" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/f603ef53-f03a-4e1d-ae95-d5611d5f1a67">
+
+Banking Table
+
+<img width="644" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/ed60639c-f00a-4648-8b53-fa04299d7c33">
+
+Employee Table
+
+<img width="583" alt="image" src="https://github.com/Nagadurg/WDM_EXP2/assets/94185707/55f35af5-60dd-4716-85e6-fc7f5278783b">
+
+
+### RESULT: Thus this program has been successfully executed.
